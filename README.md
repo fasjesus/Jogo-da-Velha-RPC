@@ -32,12 +32,12 @@ python client.py
 ### Regras
 <p align="justify">
     - O objetivo é alinhar cinco peças consecutivas em uma linha reta (horizontal, vertical ou diagonal).<br><br>
-    - Dois jogadores se alternam para colocar suas peças na grade 15x15 até que um deles consiga alinhar cinco peças seguidas.
+    - Dois jogadores se alternam para colocar suas peças na grade 5x5 até que um deles consiga alinhar cinco peças seguidas.
     <br><br>
     - Para fazer a jogada digite no seguinte formato:
 </p>
 
 ```bash
-linha, coluna
+linha coluna
 ```
 
