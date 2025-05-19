@@ -1,5 +1,8 @@
 # Flávia Alessandra Santos de Jesus.
 
+# Programar um jogo da velha 5x5 distribuído para três jogadores remotos utilizando invocação de métodos remotos (RMI), 
+# ou chamada de procedimentos remotos (RPC). A interface pode ser orientada a caracteres. Obs.: o jogo pode ser testado em um único computador.
+
 import xmlrpc.client
 import time
 
